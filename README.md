@@ -11,7 +11,7 @@ A Codeigniter install using a the Twitter Bootstrap Basic (http://twitter.github
 ## Usage
 
 Download, Unzip, Upload and Enjoy!!
-Codeigniter User Guide (http://www.richardorobinson.com)
+Codeigniter User Guide (http://codeigniter.com/user_guide/)
 
 
 ## Donations
