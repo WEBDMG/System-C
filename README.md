@@ -1,7 +1,7 @@
 # Codeigniter+Bootstrap
 
 Codeigniter with a Twitter Bootstrap Baked In.
-A Codeigniter install using a the Twitter Bootstrap Basic [Twitter Bootstrap Basic ](http://twitter.github.com/bootstrap/examples.html) marketing site as template.
+A Codeigniter install using a the [Twitter Bootstrap](http://twitter.github.com/bootstrap/) [Twitter Bootstrap Basic ](http://twitter.github.com/bootstrap/examples.html) marketing site as template.
 
 ## Requirements
 
@@ -12,9 +12,9 @@ A Codeigniter install using a the Twitter Bootstrap Basic [Twitter Bootstrap Bas
 ## Usage
 
 Download, Unzip, Upload and Enjoy!!
-Codeigniter User Guide[Codeigniter User Guide] (http://codeigniter.com/user_guide/)
+[Codeigniter User Guide] (http://codeigniter.com/user_guide/)
 
 
 ## Donations
 
-Developed by Richard Robinson [Richard Robinson](http://www.richardorobinson.com)
+Developed by [Richard Robinson](http://www.richardorobinson.com)
