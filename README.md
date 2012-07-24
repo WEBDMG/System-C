@@ -14,7 +14,5 @@ A Codeigniter install using a the [Twitter Bootstrap ](http://twitter.github.com
 Download, Unzip, Upload and Enjoy!!
 [Codeigniter User Guide] (http://codeigniter.com/user_guide/)
 
-
-## Donations
-
+##
 Developed by [Richard Robinson](http://www.richardorobinson.com)
