@@ -8,7 +8,7 @@
     <meta name="author" content="Richard Robinson http://www.richardorobinson.com">
 
     <!-- Le styles -->
-    <link href="<?= base_url()?>/css/bootstrap.css" rel="stylesheet">
+    <link href="<?= base_url()?>css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 60px;
@@ -31,7 +31,7 @@
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?= base_url()?>ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?= base_url()?>ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="<?= base_url()?>ico/apple-touch-icon-57-precomposed.png">
-
+	<script type="text/javascript" src="<?= base_url(); ?>js/bootstrap.js"></script>
   </head>
 
   <body>
