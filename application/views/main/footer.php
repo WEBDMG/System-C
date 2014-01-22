@@ -1,27 +1,19 @@
-      <hr>
-      <footer>
-      <div class="row-fluid">
-            <div class="span4">
-        <p>&copy; <?= $title ?> <?= date('Y'); ?></p>
-            </div>
-              <div class="span4">
 
-            </div>
-              <div class="span4">
-        <p class="pull-right"><a href="http://codeigniter.com/user_guide/">CI User Guide</a> | </p>
-            </div>
-            </div>
+      <hr>
+
+      <footer>
+        <p>&copy; <?= $title ?> 2013</p>
       </footer>
-    </div><!--/.fluid-container-->
-    <!-- Le javascript
+
+    </div><!--/.container-->
+
+
+
+    <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script src="<?= base_url()?>/js/bootstrap.js"></script>
-      <script type="text/javascript">  
-   $(document).ready(function() {
-   	$('.carousel').carousel('cycle');
-   	});
- </script>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="<?= base_url()?>js/bootstrap.min.js"></script>
+    <script src="<?= base_url()?>js/offcanvas.js"></script>
   </body>
 </html>
