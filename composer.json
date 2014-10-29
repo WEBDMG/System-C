@@ -1,6 +1,6 @@
 {
 	"description" : "CodeIgniter PHP Framework with bower to pull in Twitter Bootstrap and CI Sparks",
-	"name" : "WEBDMG/Codeigniter",
+	"name" : "webdmg/codeigniter",
 	"require": {
 		"php": ">=5.2.4"
 	}
