@@ -1,6 +1,6 @@
 {
-	"description" : "Ellis Lab’s CodeIgniter with my preferred setup",
-	"name" : "kincade71/Bootigniter",
+	"description" : "CodeIgniter PHP Framework with bower to pull in Twitter Bootstrap and CI Sparks",
+	"name" : "WEBDMG/Codeigniter",
 	"require": {
 		"php": ">=5.2.4"
 	}
