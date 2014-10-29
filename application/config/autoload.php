@@ -120,6 +120,6 @@ $autoload['model'] = array();
 |	$autoload['sparks'] = array('spark1', 'spark2');
 |
 */
-$autoload['sparks'] = array('restclient-2');
+$autoload['sparks'] = array();
 /* End of file autoload.php */
 /* Location: ./application/config/autoload.php */
