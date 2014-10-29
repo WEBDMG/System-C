@@ -1,0 +1,7 @@
+{
+	"description" : "Ellis Lab’s CodeIgniter with my preferred setup",
+	"name" : "kincade71/Bootigniter",
+	"require": {
+		"php": ">=5.2.4"
+	}
+}
