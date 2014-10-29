@@ -6,7 +6,6 @@ A Codeigniter install using a the [Twitter Bootstrap ](http://twitter.github.com
 ## Requirements
 
 1. PHP 5.2+
-2. CodeIgniter 2.1.0+
 
 
 ## Usage
