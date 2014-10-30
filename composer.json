@@ -1,0 +1,8 @@
+{
+	"description" : "CodeIgniter PHP Framework with bower to pull in Twitter Bootstrap and CI Sparks",
+	"name" : "webdmg/codeigniter",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.2.4"
+	}
+}
