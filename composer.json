@@ -1,5 +1,5 @@
 {
-	"description" : "CodeIgniter PHP Framework with bower to pull in Twitter Bootstrap and CI Sparks",
+	"description" : "Add CodeIgniter 3 PHP Framework system folder as a Composer Dependence.",
 	"name" : "webdmg/system-c",
 	"license": "MIT",
 	"require": {
